@@ -8,13 +8,13 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
-[<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]()
+[<span style="color:blue;"> slides </span>](slides/NTK_Madi.pdf) | [<span style="color:blue;"> video </span>]()
 
 
 
-<span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
+<!-- <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
-[<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]()
+[<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]() -->
 
 
 <!-- 
