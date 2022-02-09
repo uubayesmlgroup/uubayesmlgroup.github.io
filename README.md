@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page maintains the seminar presentations of the *Bayesian Machine Learning* group supervised by [Dr. Shandian Zhe](https://www.cs.utah.edu/~zhe/) at the [University of Utah](https://www.utah.edu/).
 
 ### Markdown
 
