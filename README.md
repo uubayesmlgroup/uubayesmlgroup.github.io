@@ -2,8 +2,22 @@
 
 This page maintains the seminar presentations of the *Bayesian Machine Learning* group supervised by [Dr. Shandian Zhe](https://www.cs.utah.edu/~zhe/) at the [University of Utah](https://www.utah.edu/).
 
-### Markdown
+## Upcoming
 
+## Archived
+
+<span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
+**Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
+[<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]()
+
+
+
+<span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
+**Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
+[<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]()
+
+
+<!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -32,4 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
