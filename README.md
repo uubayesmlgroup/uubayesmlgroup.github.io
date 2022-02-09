@@ -10,9 +10,15 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/NTK_Madi.pdf) | [<span style="color:blue;"> video </span>]()
 
+<span style="color:darkred;"> Fourier Transform, Time Seriers and Point Process</span> \
+**Date**: *Nov 8 2021*, **Presenter**: *Zheng Wang*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/fourier_zheng_wang.pdf) 
+
 <span style="color:darkred;"> Multi-Armed Bandits: An Introduction </span> \
 **Date**: *Nov 2 2021*, **Presenter**: *Shibo Li*\
-[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/MAB_Shibo.pdf) | [<span style="color:blue;"> video </span>]()
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/MAB_Shibo.pdf) 
+
+
 
 
 
