@@ -8,7 +8,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
-<a href="slides/NTK_Madi.pdf" target="_blank">slides</a> | [<span style="color:blue;"> video </span>]()
+<a href="http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/NTK_Madi.pdf" target="_blank">slides</a> | [<span style="color:blue;"> video </span>]()
 
 
 
