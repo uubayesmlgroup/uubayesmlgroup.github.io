@@ -27,6 +27,9 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Oct 26 2021*, **Presenter**: *Shikai Fang*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Kalman_SDE_GP_Shikai_Fang.pdf) 
 
+<span style="color:darkred;"> Bayesian Optimization with Finite Budget </span> \
+**Date**: *Sep 14 2021*, **Presenter**: *Shibo Li*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/BOFB_ShiboLi.pdf) 
 
 
 <!-- <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
