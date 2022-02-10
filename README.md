@@ -20,7 +20,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
-[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/NTK_Madi.pdf) | [<span style="color:blue;"> video </span>]()
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/NTK_Madi.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=hy4CyjXX2dA)
 
 <span style="color:darkred;"> Fourier Transform, Time Seriers and Point Process</span> \
 **Date**: *Nov 8 2021*, **Presenter**: *Zheng Wang*\
