@@ -19,6 +19,9 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/MAB_Shibo.pdf) 
 
 
+<span style="color:darkred;"> Model Selection in Bayesian Neural Networks via Horseshoe Priors</span> \
+**Date**: *Oct 26 2021*, **Presenter**: *Da Long*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Hourseshoe_Da.pdf) 
 
 
 
