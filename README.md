@@ -5,16 +5,16 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 ## Upcoming
 
 <span style="color:darkred;"> Multiresolution Gaussian Processes </span> \
-**Date**: *Feb 18 2022*, **Presenter**: *Zheng Wang*\
+**Date**: *Feb 18 2022*, **Presenter**: *Zheng Wang*
 
 <span style="color:darkred;">  Dirichlet Pruning for Neural Network Compression </span> \
-**Date**: *Feb 16 2022*, **Presenter**: *Xin Yu*\
+**Date**: *Feb 16 2022*, **Presenter**: *Xin Yu*
 
 <span style="color:darkred;"> Neural Operator: Learning Maps Between Function Spaces</span> \
-**Date**: *Feb 14 2022*, **Presenter**: *Shibo Li*\
+**Date**: *Feb 14 2022*, **Presenter**: *Shibo Li*
 
 <span style="color:darkred;"> Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients </span> \
-**Date**: *Feb 11 2022*, **Presenter**: *Nancy Lyu*\
+**Date**: *Feb 11 2022*, **Presenter**: *Nancy Lyu*
 
 ## Archived
 
