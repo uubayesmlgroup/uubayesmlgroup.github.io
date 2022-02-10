@@ -23,6 +23,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Oct 26 2021*, **Presenter**: *Da Long*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Hourseshoe_Da.pdf) 
 
+<span style="color:darkred;"> Introduction to Kalman-Filter, SDE and LFM</span> \
+**Date**: *Oct 26 2021*, **Presenter**: *Shikai Fang*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Kalman_SDE_GP_Shikai_Fang.pdf) 
+
 
 
 <!-- <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
