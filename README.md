@@ -60,7 +60,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 [<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]() -->
 
 
-<a href="https://clustrmaps.com/site/1bmq5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8RidEvnC8qETev-j90_pSz1hk8uW_1cBOAkvDtU9AiA&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bmq5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8RidEvnC8qETev-j90_pSz1hk8uW_1cBOAkvDtU9AiA&cl=ffffff" width="200" /></a>
 
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
