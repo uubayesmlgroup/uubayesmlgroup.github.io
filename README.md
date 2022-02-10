@@ -60,6 +60,8 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 [<span style="color:blue;"> slides </span>](https://www.cs.utah.edu/~shibo/) | [<span style="color:blue;"> video </span>]() -->
 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8RidEvnC8qETev-j90_pSz1hk8uW_1cBOAkvDtU9AiA&cl=ffffff&w=a"></script>
+
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
