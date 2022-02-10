@@ -35,6 +35,13 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Sep 14 2021*, **Presenter**: *Shikai Fang*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/attention_shikai_fang.pdf) 
 
+<span style="color:darkred;"> A Brief Introduction to Graph Neural Networks </span> \
+**Date**: *Sep 8 2021*, **Presenter**: *Zheng Wang*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/GNN_Zheng.pdf) 
+
+<span style="color:darkred;"> Literature Review: Network Compression </span> \
+**Date**: *Sep 1 2021*, **Presenter**: *Xin Yu*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Network_Compression_Xin.pdf) 
 
 <!-- <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
