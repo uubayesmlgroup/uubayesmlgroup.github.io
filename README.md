@@ -31,6 +31,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Sep 14 2021*, **Presenter**: *Shibo Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/BOFB_ShiboLi.pdf) 
 
+<span style="color:darkred;"> Introduction to Attention</span> \
+**Date**: *Sep 14 2021*, **Presenter**: *Shikai Fang*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/attention_shikai_fang.pdf) 
+
 
 <!-- <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
 **Date**: *Feb 9 2022*, **Presenter**: *Madison Cooley*\
