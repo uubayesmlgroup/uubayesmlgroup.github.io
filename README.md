@@ -61,5 +61,5 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 
 ### Visitors Map
-<a href="https://clustrmaps.com/site/1bmq5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8RidEvnC8qETev-j90_pSz1hk8uW_1cBOAkvDtU9AiA&cl=ffffff" width="400" /></a>
+<a href="https://clustrmaps.com/site/1bmq5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8RidEvnC8qETev-j90_pSz1hk8uW_1cBOAkvDtU9AiA&cl=ffffff" width="250" /></a>
 
