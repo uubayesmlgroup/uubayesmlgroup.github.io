@@ -14,11 +14,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Feb 14 2022*, **Presenter**: *Shibo Li*
 
 
-
 ## Archived
 
 <span style="color:darkred;"> Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients </span> \
-**Date**: *Feb 11 2022*, **Presenter**: *Nancy Lyu*
+**Date**: *Feb 11 2022*, **Presenter**: *Nancy Lyu*\
 [<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=sU7LmV8xhuc)
 
 <span style="color:darkred;"> Neural Tangent Kernel and PINNs </span> \
