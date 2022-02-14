@@ -10,11 +10,12 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 <span style="color:darkred;">  Dirichlet Pruning for Neural Network Compression </span> \
 **Date**: *Feb 16 2022*, **Presenter**: *Xin Yu*
 
-<span style="color:darkred;"> Neural Operator: Learning Maps Between Function Spaces</span> \
-**Date**: *Feb 14 2022*, **Presenter**: *Shibo Li*
-
 
 ## Archived
+
+<span style="color:darkred;"> Neural Operator: Learning Maps Between Function Spaces</span> \
+**Date**: *Feb 14 2022*, **Presenter**: *Shibo Li*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/NeuralOperator_ShiboLi.pdf)) | [<span style="color:blue;"> video part1 </span>]() | [<span style="color:blue;"> video part2 </span>]()
 
 <span style="color:darkred;"> Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients </span> \
 **Date**: *Feb 11 2022*, **Presenter**: *Nancy Lyu*\
