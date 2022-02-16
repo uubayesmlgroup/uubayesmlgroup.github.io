@@ -4,14 +4,15 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Upcoming
 
-<span style="color:darkred;"> Multiresolution Gaussian Processes </span> \
-**Date**: *Feb 18 2022*, **Presenter**: *Zheng Wang*
-
 <span style="color:darkred;">  Dirichlet Pruning for Neural Network Compression </span> \
-**Date**: *Feb 16 2022*, **Presenter**: *Xin Yu*
+**Date**: *Feb 18 2022*, **Presenter**: *Xin Yu*
 
 
 ## Archived
+
+<span style="color:darkred;"> Multiresolution Gaussian Processes </span> \
+**Date**: *Feb 16 2022*, **Presenter**: *Zheng Wang*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Multiresolution_Gaussian_Processes_Zheng.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=NeuBKU9IofI)
 
 <span style="color:darkred;"> Neural Operator: Learning Maps Between Function Spaces</span> \
 **Date**: *Feb 14 2022*, **Presenter**: *Shibo Li*\
