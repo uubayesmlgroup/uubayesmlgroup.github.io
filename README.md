@@ -4,11 +4,13 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Upcoming
 
-<span style="color:darkred;">  Dirichlet Pruning for Neural Network Compression </span> \
-**Date**: *Feb 18 2022*, **Presenter**: *Xin Yu*
-
 
 ## Archived
+
+<span style="color:darkred;">  Dirichlet Pruning for Neural Network Compression </span> \
+**Date**: *Feb 18 2022*, **Presenter**: *Xin Yu* \
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/probabilistic_network-pruning-XinYu-02182022.pptx.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=R4yXSuyXs5s)
+
 
 <span style="color:darkred;"> Multiresolution Gaussian Processes </span> \
 **Date**: *Feb 16 2022*, **Presenter**: *Zheng Wang*\
