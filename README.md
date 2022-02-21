@@ -7,6 +7,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Archived
 
+<span style="color:darkred;">  Probabilistic Network Pruning </span> \
+**Date**: *Feb 21 2022*, **Presenter**: *Xin Yu* \
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/probabilistic_network-pruning-XinYu-02182022.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Z-4eF04QpZg)
+
 <span style="color:darkred;">  Dirichlet Pruning for Neural Network Compression </span> \
 **Date**: *Feb 18 2022*, **Presenter**: *Xin Yu* \
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/probabilistic_network-pruning-XinYu-02182022.pptx.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=R4yXSuyXs5s)
