@@ -9,7 +9,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;">  Physics-Informed Learning of Governing Equations from Scarce Data </span> \
 **Date**: *Feb 25 2022*, **Presenter**: *Zheng Wang* \
-[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Nc9EMuCtku0)
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/PINN_Zheng.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Nc9EMuCtku0)
 
 <span style="color:darkred;">  Elliptical Slice Sampling </span> \
 **Date**: *Feb 23 2022*, **Presenter**: *Da Long* \
