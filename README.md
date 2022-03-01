@@ -7,6 +7,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Archived
 
+<span style="color:darkred;">  Scalable Gradients for Stochastic Differential Equations </span> \
+**Date**: *Feb 28 2022*, **Presenter**: *Shikai Fang* \
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/latent_SDE_fang_with_draft.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Q4l2zJ_Ko7o)
+
 <span style="color:darkred;">  Physics-Informed Learning of Governing Equations from Scarce Data </span> \
 **Date**: *Feb 25 2022*, **Presenter**: *Zheng Wang* \
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/PINN_Zheng.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Nc9EMuCtku0)
