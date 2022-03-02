@@ -7,6 +7,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Archived
 
+<span style="color:darkred;">  DeepONet and Physics-Informed Operator Learning </span> \
+**Date**: *Mar 2 2022*, **Presenter**: *Shibo Li* \
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/DeepONet_ShiboLi.pdf) | [<span style="color:blue;"> video </span>]()
+
 <span style="color:darkred;">  Scalable Gradients for Stochastic Differential Equations </span> \
 **Date**: *Feb 28 2022*, **Presenter**: *Shikai Fang* \
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/latent_SDE_fang_with_draft.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Q4l2zJ_Ko7o)
