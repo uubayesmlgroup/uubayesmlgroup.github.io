@@ -4,6 +4,14 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Upcoming
 
+<span style="color:darkred;">  Graph ODE/PDE </span> \
+**Date**: *Mar 16 2022*, **Presenter**: *Shikai Fang* \
+[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>]()
+
+<span style="color:darkred;">  Fast Hessian </span> \
+**Date**: *Mar 18 2022*, **Presenter**: *Xin Yu* \
+[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>]()
+
 
 ## Archived
 
