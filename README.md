@@ -7,6 +7,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Archived
 
+<span style="color:darkred;">  DropGNN: Random Dropouts Increase the Expressiveness of Graph Neural Networks </span> \
+**Date**: *Mar 4 2022*, **Presenter**: *Dillon Lee* \
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/DropGNN_Dillon.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=S-HevqoWIOY)
+
 <span style="color:darkred;">  DeepONet and Physics-Informed Operator Learning </span> \
 **Date**: *Mar 2 2022*, **Presenter**: *Shibo Li* \
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/DeepONet_ShiboLi.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=bOJc-BEcH3s)
