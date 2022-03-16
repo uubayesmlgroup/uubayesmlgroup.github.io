@@ -4,9 +4,6 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Upcoming
 
-<span style="color:darkred;">  Graph ODE/PDE </span> \
-**Date**: *Mar 16 2022*, **Presenter**: *Shikai Fang* 
-<!-- <!-- [<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>]() --> -->
 
 <span style="color:darkred;">  Fast Hessian </span> \
 **Date**: *Mar 18 2022*, **Presenter**: *Xin Yu* 
@@ -14,6 +11,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 
 ## Archived
+
+<span style="color:darkred;">  ODE on Graph </span> \
+**Date**: *Mar 16 2022*, **Presenter**: *Shikai Fang* 
+[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=mndlaOucZ70)
 
 <span style="color:darkred;">  DropGNN: Random Dropouts Increase the Expressiveness of Graph Neural Networks </span> \
 **Date**: *Mar 4 2022*, **Presenter**: *Dillon Lee* \
