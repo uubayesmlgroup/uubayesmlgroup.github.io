@@ -14,7 +14,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;">  ODE on Graph </span> \
 **Date**: *Mar 16 2022*, **Presenter**: *Shikai Fang* \
-[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=mndlaOucZ70)
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/graph_fussion_present_fang.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=mndlaOucZ70)
 
 <span style="color:darkred;">  DropGNN: Random Dropouts Increase the Expressiveness of Graph Neural Networks </span> \
 **Date**: *Mar 4 2022*, **Presenter**: *Dillon Lee* \
