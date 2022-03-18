@@ -2,17 +2,15 @@
 
 This page maintains the seminar presentations of the *Bayesian Machine Learning* group supervised by [Dr. Shandian Zhe](https://www.cs.utah.edu/~zhe/) at the [University of Utah](https://www.utah.edu/).
 
-## Upcoming
-
-
-<span style="color:darkred;">  Fast Hessian </span> \
-**Date**: *Mar 18 2022*, **Presenter**: *Xin Yu* 
-<!-- [<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>]() -->
-
+<!-- ## Upcoming -->
 
 ## Archived
 
-<span style="color:darkred;">  ODE on Graph </span> \
+<span style="color:darkred;"> A Deterministic Streaming Sketch for Ridge Regression </span> \
+**Date**: *Mar 18 2022*, **Presenter**: *Xin Yu* \
+[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=3ZF7QKa3rhw)
+
+<span style="color:darkred;">  ODE on Graph: A Diffusion Example </span> \
 **Date**: *Mar 16 2022*, **Presenter**: *Shikai Fang* \
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/graph_fussion_present_fang.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=mndlaOucZ70)
 
