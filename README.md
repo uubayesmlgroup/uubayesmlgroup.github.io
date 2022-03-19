@@ -8,7 +8,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;"> A Deterministic Streaming Sketch for Ridge Regression </span> \
 **Date**: *Mar 18 2022*, **Presenter**: *Xin Yu* \
-[<span style="color:blue;"> slides </span>]() | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=3ZF7QKa3rhw)
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/streaming_sketch_for_rigid_regression_xin.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=3ZF7QKa3rhw)
 
 <span style="color:darkred;">  ODE on Graph: A Diffusion Example </span> \
 **Date**: *Mar 16 2022*, **Presenter**: *Shikai Fang* \
