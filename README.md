@@ -2,7 +2,10 @@
 
 This page maintains the seminar presentations of the *Bayesian Machine Learning* group supervised by [Dr. Shandian Zhe](https://www.cs.utah.edu/~zhe/) at the [University of Utah](https://www.utah.edu/).
 
-<!-- ## Upcoming -->
+## Upcoming
+
+<span style="color:darkred;"> Schrodinger Bridge and its applications </span> \
+**Date**: *Aug 31 2022*, **Presenter**: *Shikai Fang* 
 
 ## Archived
 
