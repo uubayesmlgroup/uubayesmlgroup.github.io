@@ -11,7 +11,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;"> From Diffusion Model to Schrodinger Bridge</span> \
 **Date**: *Aug 31 2022*, **Presenter**: *Shikai Fang*\
-[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/diffusion_schrondinger_bridge_fang.pdf) | [<span style="color:blue;"> video part1 </span>](https://www.youtube.com/watch?v=NjhSmovAs8s) | [<span style="color:blue;"> video part2 </span>](hhttps://www.youtube.com/watch?v=Kh2dgUr17Do)
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/diffusion_schrondinger_bridge_fang.pdf) | [<span style="color:blue;"> video part1 </span>](https://www.youtube.com/watch?v=NjhSmovAs8s) | [<span style="color:blue;"> video part2 </span>](https://www.youtube.com/watch?v=Kh2dgUr17Do)
 
 <span style="color:darkred;"> A Deterministic Streaming Sketch for Ridge Regression </span> \
 **Date**: *Mar 18 2022*, **Presenter**: *Xin Yu* \
