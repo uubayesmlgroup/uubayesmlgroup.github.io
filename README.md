@@ -9,6 +9,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Archived
 
+<span style="color:darkred;"> A Continuous Analogue of the Tensor-Train Decomposition</span> \
+**Date**: *Jun 5th 2023*, **Presenter**: *Yile Li*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf) 
+
 <span style="color:darkred;"> From Diffusion Model to Schrodinger Bridge</span> \
 **Date**: *Aug 31 2022*, **Presenter**: *Shikai Fang*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/diffusion_schrondinger_bridge_fang.pdf) | [<span style="color:blue;"> video part1 </span>](https://www.youtube.com/watch?v=NjhSmovAs8s) | [<span style="color:blue;"> video part2 </span>](https://www.youtube.com/watch?v=Kh2dgUr17Do)
