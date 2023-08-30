@@ -9,6 +9,18 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 ## Archived
 
+<!-- <span style="color:darkred;"> A Continuous Analogue of the Tensor-Train Decomposition</span> \
+**Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
+
+<span style="color:darkred;"> Data-driven Methods for Atomosphere Research</span> \
+**Date**: *Aug 30 2023*, **Presenter**: *Wenlin Li*\
+[<span style="color:blue;"> slides 1 </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/sequential_Monte_Carlo_haozhe.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=JC7zKtN64Qg)
+
+<span style="color:darkred;"> Data-driven Methods for Atomosphere Research</span> \
+**Date**: *Aug 30 2023*, **Presenter**: *Wenlin Li*\
+[<span style="color:blue;"> slides 1 </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/multiscale_wenlin.pdf) | [<span style="color:blue;"> slides 2 </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/stochastic_param_gan_wenlin.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=EPyLfwv7C9o)
+
 <span style="color:darkred;"> A Continuous Analogue of the Tensor-Train Decomposition</span> \
 **Date**: *Jun 5th 2023*, **Presenter**: *Yile Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf) 
