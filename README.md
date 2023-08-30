@@ -13,7 +13,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
-<span style="color:darkred;"> Data-driven Methods for Atomosphere Research</span> \
+<span style="color:darkred;"> Sequential Monte-Carlo </span> \
 **Date**: *Aug 30 2023*, **Presenter**: *Wenlin Li*\
 [<span style="color:blue;"> slides 1 </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/sequential_Monte_Carlo_haozhe.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=JC7zKtN64Qg)
 
