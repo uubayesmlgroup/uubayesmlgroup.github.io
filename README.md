@@ -13,6 +13,14 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
+<span style="color:darkred;">  </span> \
+**Date**: *Sep 5 2023*, **Presenter**: *Keyan Chen*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/HyperGCN_keyan.pdf) |  [<span style="color:blue;"> video1 </span>](https://www.youtube.com/watch?v=vSopgPd-JxY) |  [<span style="color:blue;"> video2 </span>](https://www.youtube.com/watch?v=iDag213rhjc)
+
+<span style="color:darkred;"> High-Dimensional Bayesian Optimization via Random Projection </span> \
+**Date**: *Sep 5 2023*, **Presenter**: *Zhitong Xu*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/HDBO_zhitong.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=vSopgPd-JxY)
+
 <span style="color:darkred;"> Sequential Monte-Carlo </span> \
 **Date**: *Aug 30 2023*, **Presenter**: *Haozhe Sun*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/sequential_Monte_Carlo_haozhe.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=JC7zKtN64Qg)
