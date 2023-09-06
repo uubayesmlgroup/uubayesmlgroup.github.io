@@ -13,7 +13,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
-<span style="color:darkred;">  </span> \
+<span style="color:darkred;">  HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs </span> \
 **Date**: *Sep 6 2023*, **Presenter**: *Keyan Chen*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/HyperGCN_keyan.pdf) |  [<span style="color:blue;"> video1 </span>](https://www.youtube.com/watch?v=vSopgPd-JxY) |  [<span style="color:blue;"> video2 </span>](https://www.youtube.com/watch?v=iDag213rhjc)
 
