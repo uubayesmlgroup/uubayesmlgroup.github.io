@@ -19,7 +19,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;"> Kernel Integral Operator by Wavelet </span> \
 **Date**: *Sep 13 2023*, **Presenter**: *Su-Wei Yang*\
-[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/operator_wavelet_zhitong.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=vWMwJhhKAF8)
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/operator_wavelet_suwei.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=vWMwJhhKAF8)
 
 <span style="color:darkred;">  HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs </span> \
 **Date**: *Sep 6 2023*, **Presenter**: *Keyan Chen*\
