@@ -13,6 +13,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
+<span style="color:darkred;">  HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs </span> \
+**Date**: *Sep 6 2023*, **Presenter**: *Keyan Chen*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/hypergraph_sina.pdf) |  [<span style="color:blue;"> video1 </span>](https://www.youtube.com/watch?v=R_0JUm9lO-U) |  [<span style="color:blue;"> video2 </span>](https://www.youtube.com/watch?v=TDnSEh3YMWQ)
+
 <span style="color:darkred;"> A General Neural Operator Transformer for Operator Learning </span> \
 **Date**: *Sep 13 2023*, **Presenter**: *Tushar Gautam*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/gnot_tushar.pdf) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=vWMwJhhKAF8)
