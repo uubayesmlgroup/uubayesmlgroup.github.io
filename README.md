@@ -14,7 +14,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
 <span style="color:darkred;">  How to use Sequential Monte Carlo for optimization </span> \
-**Date**: *Nov 1 2023*, **Presenter**: *Haozhe Sun*\
+**Date**: *Nov 3 2023*, **Presenter**: *Haozhe Sun*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/sequential_mcmc_haozhe.pdf) 
 
 <span style="color:darkred;">  Large Language Models Quantization (Part 1)</span> \
