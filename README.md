@@ -13,6 +13,15 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
+
+<span style="color:darkred;">  How to use Sequential Monte Carlo for optimization </span> \
+**Date**: *Nov 22 2023*, **Presenter**: *Su-wei Yange*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/FRFT-suwei.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=xPQLmqNEeQA)
+
+<span style="color:darkred;">  Large Language Models Quantization (Part 2)</span> \
+**Date**: *Nov 22 2023*, **Presenter**: *Xin Yu*\
+[<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/quan-llm-part2-xy.pdf) |  [<span style="color:blue;"> video1 </span>](https://www.youtube.com/watch?v=RFYm-1UbweE) |  [<span style="color:blue;"> video2 </span>](https://www.youtube.com/watch?v=xPQLmqNEeQA) 
+
 <span style="color:darkred;">  How to use Sequential Monte Carlo for optimization </span> \
 **Date**: *Nov 3 2023*, **Presenter**: *Haozhe Sun*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/sequential_mcmc_haozhe.pdf) 
