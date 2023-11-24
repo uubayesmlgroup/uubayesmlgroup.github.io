@@ -15,7 +15,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 
 <span style="color:darkred;">  How to use Sequential Monte Carlo for optimization </span> \
-**Date**: *Nov 22 2023*, **Presenter**: *Su-wei Yange*\
+**Date**: *Nov 22 2023*, **Presenter**: *Su-wei Yang*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/FRFT-suwei.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=xPQLmqNEeQA)
 
 <span style="color:darkred;">  Large Language Models Quantization (Part 2)</span> \
