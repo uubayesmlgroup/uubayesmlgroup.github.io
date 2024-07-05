@@ -13,6 +13,9 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
+<span style="color:darkred;">  Diffusion model and Inverse Problem </span> \
+**Date**: *Feb 21 2024*, **Presenter**: *ZhiTong Xu*\
+[<span style="color:blue;"> slides </span>](https://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Diffusion_ZhitongXu.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=Tkok3UJlNrg)
 
 <span style="color:darkred;">  How to use Sequential Monte Carlo for optimization </span> \
 **Date**: *Nov 22 2023*, **Presenter**: *Su-wei Yang*\
