@@ -15,7 +15,7 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 
 <span style="color:darkred;">  Anomaly detection and segmentation via deep learning </span> \
 **Date**: *Dec 11 2024*, **Presenter**: *Gaurav*\
-[<span style="color:blue;"> slides </span>](https://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Diffusion_ZhitongXu.pdf) |  [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=TSRUyWtbI94)
+[<span style="color:blue;"> slides </span>](https://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/Diffusion_ZhitongXu.pdf) |  [<span style="color:blue;"> video1 </span>](https://www.youtube.com/watch?v=TSRUyWtbI94) | [<span style="color:blue;"> video2 </span>](https://www.youtube.com/watch?v=AyEyTKHbAHI)
 
 <span style="color:darkred;">  Diffusion model and Inverse Problem </span> \
 **Date**: *Feb 21 2024*, **Presenter**: *ZhiTong Xu*\
