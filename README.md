@@ -13,6 +13,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
+<span style="color:darkred;">  LLM Agents --- From Language Models to Autonomous Intelligence</span> \
+**Date**: *Feb 17 2025*, **Presenter**: *Gnanambhal Shivarraman*\
+[<span style="color:blue;"> slides </span>](https://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/LLM%20Agents.pptx) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=CriYh-NZp5Y&ab_channel=ShandianZhe)
+
 <span style="color:darkred;">  LLM tutorial (reasoning, distillation, deepseek etc) </span> \
 **Date**: *Feb 17 2025*, **Presenter**: *Da Long*\
 [<span style="color:blue;"> slides </span>](https://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/LLM%20tutorial.pptx) | [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=6QFNEaItrPQ&ab_channel=ShandianZhe)
