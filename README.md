@@ -13,6 +13,10 @@ This page maintains the seminar presentations of the *Bayesian Machine Learning*
 **Date**: *Aug 30 2023*, **Presenter**: *Yenlin Li*\
 [<span style="color:blue;"> slides </span>](http://github.com/uubayesmlgroup/uubayesmlgroup.github.io/blob/main/slides/tensor-train-yile.pdf)  -->
 
+<span style="color:darkred;">  Temporal Point Process with LLM</span> \
+**Date**: *October 30 2026*, **Presenter**: *Zhitong Xu*\
+[<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=LKV3rJtm7T8)
+
 <span style="color:darkred;">  Intro to Reinforcement Learning --- Model Free and model based methods</span> \
 **Date**: *June 5 2025*, **Presenter**: *Zhitong Xu*\
 [<span style="color:blue;"> video </span>](https://www.youtube.com/watch?v=hMcdnwPm_rs&ab_channel=ShandianZhe)
